@@ -23,15 +23,17 @@ header{
 
 
 nav{
-    display: flex;
-    justify-content: center;
-    gap: 60px;
-   
-      position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1000; 
+   display: flex;
+   justify-content: center;
+   gap: 60px;
+
+   position: fixed;
+   top: 0;
+   width: 100%;
+   z-index: 1000;
 }
+
+
 
 
 nav a{
@@ -42,9 +44,9 @@ nav a{
 
 
 .header-text{
-    text-align: center;
-    margin-top: 250px;
-}
+text-align: center;
+padding-top: 250px;
+} 
 
 
 .header-text h1{
